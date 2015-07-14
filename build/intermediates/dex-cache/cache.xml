@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/brian.chu/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-watcher/1.3.1/6904771474c058abfc5912c13d12b02754712165/leakcanary-watcher-1.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6904771474c058abfc5912c13d12b02754712165">
+        <dex dex="/Users/brian.chu/private/android/Demo/app/build/intermediates/pre-dexed/debug/leakcanary-watcher-1.3.1-a10acd3c5a076e7c1dd9a755d8dd8eddc0e859ca.jar" />
+    </item>
+    <item
+        jar="/Users/brian.chu/.gradle/caches/modules-2/files-2.1/com.squareup.leakcanary/leakcanary-analyzer/1.3.1/325e7401a7ea16918eb39ba8baad8fd5561a55d3/leakcanary-analyzer-1.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="325e7401a7ea16918eb39ba8baad8fd5561a55d3">
+        <dex dex="/Users/brian.chu/private/android/Demo/app/build/intermediates/pre-dexed/debug/leakcanary-analyzer-1.3.1-46aa55799b760d36c63944a662b58ee393aaa18e.jar" />
+    </item>
+    <item
+        jar="/Users/brian.chu/private/android/Demo/app/libs/localytics.3.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="10b8d1e14ad78f359ca3dc4c4debd4155034de7a">
+        <dex dex="/Users/brian.chu/private/android/Demo/app/build/intermediates/pre-dexed/debug/localytics.3.4.0-f587d7a8383ce9996d37a4e5e7cfc79666d02c09.jar" />
+    </item>
+    <item
+        jar="/Users/brian.chu/private/android/Demo/app/build/intermediates/exploded-aar/com.squareup.leakcanary/leakcanary-android/1.3.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9066b6d4e2536b49e3b58aa301fd925247032df0">
+        <dex dex="/Users/brian.chu/private/android/Demo/app/build/intermediates/pre-dexed/debug/classes-ae3b7fa7bad70878b4f0d8a38a5c7645cb451bb3.jar" />
+    </item>
+    <item
+        jar="/Users/brian.chu/work/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/brian.chu/private/android/Demo/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-f753c087b2bf0f47fa5e8bd03a595533d17c0b52.jar" />
+    </item>
+    <item
+        jar="/Users/brian.chu/private/android/Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/brian.chu/private/android/Demo/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-34ef69c03eb906f28aa469e3361d35ec56390b6d.jar" />
+    </item>
+    <item
+        jar="/Users/brian.chu/private/android/Demo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/brian.chu/private/android/Demo/app/build/intermediates/pre-dexed/debug/classes-2114f107a81d7d6aa0796ec34ab0beb6fdb7e6a1.jar" />
+    </item>
+    <item
+        jar="/Users/brian.chu/.gradle/caches/modules-2/files-2.1/com.squareup.haha/haha/1.3/d2c832f9d14a11c79f58a7ee2e10526a12152c72/haha-1.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d2c832f9d14a11c79f58a7ee2e10526a12152c72">
+        <dex dex="/Users/brian.chu/private/android/Demo/app/build/intermediates/pre-dexed/debug/haha-1.3-286466c0cb8675689b96a773e7d7fbef8472c2a9.jar" />
+    </item>
+    <item
+        jar="/Users/brian.chu/private/android/Demo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/brian.chu/private/android/Demo/app/build/intermediates/pre-dexed/debug/classes-b2fc990779f7dadd26041a8cd17e3d8be67d876c.jar" />
+    </item>
+
+</items>
